@@ -1,0 +1,117 @@
+header{
+    background-color: rgb(56, 130, 130);
+  
+}
+.recherche{
+display: flex;
+justify-content: end;
+position: relative;
+bottom: 40px;
+right: 10px;
+}
+.navigation{
+    border: solid 2px cornsilk ;
+    border-radius: 5px;
+    margin: 150px;
+    position: relative;
+    bottom: 200px;
+    right: 37px;
+    background-color: rgb(3, 4, 8);
+    color: white;
+list-style: none;
+
+}
+a:link{
+    text-decoration: none;
+    color: white;
+    
+}
+ul li.puce{
+    list-style: none; 
+   display: inline-block;
+   padding: 10px;
+   color: white;
+}
+#contacte {
+padding-left: 400px;
+
+}
+a:hover{
+    
+    background-color: antiquewhite;
+}
+.haut{
+    margin: 0px;
+    background-image: url(naruto.jpg);
+}
+
+
+#millieu{
+    padding-bottom: 2000px;
+    display: flex;
+  position: relative;
+  right: 100px;
+}
+#propos , #travaill{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    bottom: 100px;
+    border: double 1px red;
+    padding: 0px;
+    
+}
+.paragraphe{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    bottom: 100px;
+    background-color: beige;
+}
+.paragraphe2{
+    position: absolute;
+   bottom: 100px;
+   position: relative;
+   
+}
+.video{
+    display: flex;
+    justify-content: end;
+    position: relative;
+    bottom: 180px;
+}
+.texte1{
+    position: relative;
+    bottom: 100px;
+    padding: 0px;
+    background-color: azure;
+}
+.formulaire{
+    position: absolute;
+    right: 0px;
+   padding-bottom: 90px;
+   background-color: aqua;
+   height: 80px;
+
+ }
+ .paragraphe3{
+    position: relative;
+    bottom: 50px;
+  
+  padding: 3px;
+ }
+ .texte3{
+    display: flex;
+    justify-content: center;
+    padding-top: 3px;
+    border: solid 1px black;
+ }
+ #cv{
+    display: flex;
+    justify-content: center;
+    border: solid 1px rgb(16, 15, 15);
+
+ }
+ .nom{
+    background-image: url(image.jpg);
+ }
